@@ -1,3 +1,5 @@
+console.log("done");
+
 $(document).ready(function(){
   $('.food-slider').slick({
     autoplay: true,
