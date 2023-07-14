@@ -14,7 +14,7 @@ section.top-products{
      display: block;
      width: 100%;
      height: 30px;
-     background-image: url(../icons/hr.svg);
+     background-image: url(/icons/hr.svg);
      background-repeat: no-repeat;
      background-position: center;
      position: absolute;

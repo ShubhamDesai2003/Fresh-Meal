@@ -4,7 +4,7 @@ section.big-deal{
     background: linear-gradient(
     rgba(35,43,56,0.9),
     rgba(35,43,56,0.9)
-    ),url(../images/food-table.jpg);
+    ),url(/images/food-table.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
