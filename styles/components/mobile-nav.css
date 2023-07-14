@@ -1,0 +1,73 @@
+.nav-background{
+  width: 100%;
+  height: 100%;
+  background: var(--light);
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.nav-background .mobile-logo{
+    padding: 1rem;
+  }
+  
+  .nav-background .mobile-nav{
+    padding: 1rem;
+  }
+  
+  .nav-background .mobile-nav ul{
+    list-style: none;
+  }
+  
+  .nav-background .mobile-nav ul li{
+    margin-bottom: 1rem;
+  }
+  
+  .nav-background .mobile-nav ul li a{
+    text-decoration: none;
+    color: var(--secondary);
+    font-family: "Raleway-Medium";
+  }
+  
+  .nav-background .mobile-nav ul li a:hover{
+    color: var(--primary);
+  }
+  
+  .nav-background .contact, .nav-background .time {
+    padding: 1rem;
+    padding-left: 0;
+  }
+  
+  .nav-background .contact img,.nav-background .time img{
+    margin-right: 1rem;
+  }
+  
+  .nav-background .contact h5,.nav-background .time h5{
+    font-family: "Raleway-Bold";
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+  }
+  
+  .nav-background .contact h6,
+  .nav-background .time h6{
+    font-size: 0.75rem;
+  }
+  
+  .nav-background .cart{
+    margin-bottom: 2rem;
+  }
+  
+  .nav-background .cart a{
+    color: var(--secondary);
+    text-decoration: none;
+    font-family: "Raleway-Bold";
+  }
+  
+  .nav-background .cart img{
+    margin-right: 0.75rem;
+    width: 20px;
+    height: 20px;
+  }
+  
